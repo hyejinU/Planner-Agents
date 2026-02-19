@@ -1,0 +1,14 @@
+# Core dependencies
+langgraph==1.0.3
+chainlit==2.9.0
+openai==2.8.0
+
+# Data and database
+pandas==2.3.3
+# sqlite3
+
+# Visualization
+plotly==6.4.0
+
+# Utilities
+python-dotenv==1.2.1
